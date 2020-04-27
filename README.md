@@ -1,2 +1,2 @@
 # PublicIP
-Docker file to log Public iP and listen on specific ports.
+Docker file to log PublicIP and PrivateIP and to listen on specific ports.
